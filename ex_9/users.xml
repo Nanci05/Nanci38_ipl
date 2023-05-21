@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user id="1">
+    <name>Airlines</name>
+    <pname>Air India</pname>
+  </user>
+  <user id="2">
+    <name>Airlines</name>
+    <pname>Air India Express</pname>
+  </user>
+  <user id="3">
+    <name>Airlines</name>
+    <pname>Indigo</pname>
+  </user>
+  <user id="4">
+    <name>Airlines</name>
+    <pname>Air Asia</pname>
+  </user>
+  <user id="5">
+    <name>Airlines</name>
+    <pname>Go AIr</pname>
+  </user>
+  <user id="6">
+    <name>Airlines</name>
+    <pname>SpiceJet</pname>
+  </user>
+  <user id="7">
+    <name>Airlines</name>
+    <pname>Vistara</pname>
+  </user>
+  <user id="8">
+    <name>Airlines</name>
+    <pname>SriLankan Airlines</pname>
+  </user>
+  </users>
